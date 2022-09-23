@@ -1,1 +1,1 @@
-Up to Date
+How to be up to date in git
